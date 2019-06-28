@@ -1,24 +1,19 @@
-# README
+# MONOLIST
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+楽天商品を検索して、登録できるWebアプリです。
 
-Things you may want to cover:
+## デモ
+### SignIn
+<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_sinIn_demo.png" width="400" height="700">
 
-* Ruby version
+### Top
+<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_top_demo.png" width="400" height="700">
 
-* System dependencies
+### Detail
+<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_myItem_demo.png" width="400" height="700">
 
-* Configuration
+### Edit
+<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_search_demo.png" width="400" height="700">
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Done
+<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_ranking_demo.png" width="400" height="700">
