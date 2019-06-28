@@ -9,11 +9,11 @@
 ### Top
 <img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_top_demo.png" width="800" height="400">
 
-### Detail
+### MyItem
 <img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_myItem_demo.png" width="800" height="400">
 
-### Edit
+### Search
 <img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_search_demo.png" width="800" height="400">
 
-### Done
+### Ranking
 <img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_ranking_demo.png" width="800" height="400">
