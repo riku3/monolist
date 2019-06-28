@@ -1,6 +1,7 @@
 # MONOLIST
 
 楽天商品を検索して、登録できるWebアプリです。
+URL:https://monolist-17.herokuapp.com
 
 ## デモ
 ### SignIn
