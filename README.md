@@ -4,7 +4,7 @@
 
 ## デモ
 ### SignIn
-<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_sinIn_demo.png" width="800" height="800">
+<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_sinIn_demo.png" width="800" height="400">
 
 ### Top
 <img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_top_demo.png" width="400" height="700">
