@@ -7,13 +7,13 @@
 <img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_sinIn_demo.png" width="800" height="400">
 
 ### Top
-<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_top_demo.png" width="400" height="700">
+<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_top_demo.png" width="800" height="400">
 
 ### Detail
-<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_myItem_demo.png" width="400" height="700">
+<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_myItem_demo.png" width="800" height="400">
 
 ### Edit
-<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_search_demo.png" width="400" height="700">
+<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_search_demo.png" width="800" height="400">
 
 ### Done
-<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_ranking_demo.png" width="400" height="700">
+<img src="https://github.com/riku3/monolist/blob/master/demo/MONOLIST_ranking_demo.png" width="800" height="400">
